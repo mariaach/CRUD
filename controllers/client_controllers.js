@@ -1,6 +1,8 @@
-import { clientServices } from "../../service/client-service.js";
+import { clientServices} from "../service/client-service.js";
+
 
 console.log(clientServices);
+
 
 //backticks
 
