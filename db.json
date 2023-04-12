@@ -5,11 +5,15 @@
       "email": "Christian@alura.com",
       "id": 1
     },
-
     {
-      "nombre": "Andrea",
-      "email": "Andrea@alura.com",
-      "id": 2
+      "nombre": "María Andrea Cárdenas Henao",
+      "email": "cardenashenaomaria@gmail.com",
+      "id": "fd1d84cb-aee5-4086-8779-7540ae30a54c"
+    },
+    {
+      "nombre": "Pedro",
+      "email": "Pedro@alura.com",
+      "id": "a917ec64-4e2b-4d27-996b-5cb6ee2fe746"
     }
   ]
 }
