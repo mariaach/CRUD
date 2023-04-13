@@ -6,14 +6,9 @@
       "id": 1
     },
     {
-      "nombre": "María Andrea Cárdenas Henao",
-      "email": "cardenashenaomaria@gmail.com",
-      "id": "fd1d84cb-aee5-4086-8779-7540ae30a54c"
-    },
-    {
       "nombre": "Pedro",
-      "email": "Pedro@alura.com",
-      "id": "a917ec64-4e2b-4d27-996b-5cb6ee2fe746"
+      "email": "pedro@alura.com",
+      "id": "b007442c-8aad-456b-b6a1-4fee1562eb84"
     }
   ]
 }
