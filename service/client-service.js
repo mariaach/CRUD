@@ -18,8 +18,8 @@ const eliminarCliente = (id) => {
 };
 
 const detalleCliente = (id) => {
-  return fetch(`http://localhost:3000/perfil/${id}`).then((respuesta) => respuesta.json()
-  console.log(respuesta, id)
+  return fetch(`http://localhost:3000/perfil/${id}`)
+  .then((respuesta) => respuesta.json()
   );
 };
 
